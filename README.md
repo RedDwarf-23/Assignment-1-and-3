@@ -4,10 +4,7 @@ Assignment 1: Table extraction assessment
 Install latest version of Tesseract on the local computer:
 url: https://github.com/UB-Mannheim/tesseract/wiki
 
-Install:
-1. pip install Pillow
-2. pip install tesseract
-3. pip install jinja2==3.1.2
+Install the various libraries in the requirements.text file
 
 Add this line of code:
 
