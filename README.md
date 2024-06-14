@@ -1,5 +1,6 @@
-# Assignment-1
-Assignment 1: Table extraction assessment
+# Table extraction 
+Extracting tables from an image
+
 
 Install latest version of Tesseract on the local computer:
 url: https://github.com/UB-Mannheim/tesseract/wiki
